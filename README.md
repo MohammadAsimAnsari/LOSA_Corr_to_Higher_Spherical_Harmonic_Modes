@@ -1,7 +1,7 @@
 # LOSA_Corr_to_Higher_Spherical_Harmonic_Modes
 In this repo, I will store the method and results of the LOSA correction to the leading (2, 2) and higher spherical harmonic modes (3, 3) , (4, 4) ..etc.
 
-## Here I will check that higer modes can mimic LOSA as follows:
+## Here I will check that higer modes can mimic LOSA using the follwoing strategy based on fitting factor:
 
 |Model  | Signal| Outcome |
 |-----------|-------------|----------|
