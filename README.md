@@ -5,6 +5,6 @@ In this repo, I will store the method and results of the LOSA correction to the 
 
 |Model  | Signal| Outcome |
 |-----------|-------------|----------|
-|No HM + Non-zero LOSA| HM + Zero LOSA| Fitting-factor peaks for \|LOSA\| > 0 |
+|No HM + Non-zero LOSA| HM + Zero LOSA| Fitting-factor peaks for \|LOSA\| $\neq$ 0 |
 |HM + Non-zero LOSA| HM + Zero LOSA| FF peaks for \|LOSA\| = 0|
 |HM + Non-zero LOSA| HM + Non-zero LOSA| FF peaks for \|LOSA\| $\neq$ 0|
