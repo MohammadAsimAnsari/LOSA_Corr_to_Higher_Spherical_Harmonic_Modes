@@ -16,7 +16,7 @@ In this repo, I will store the method and results of the LOSA correction to the 
 |-----------|-------------|----------|
 |LOSA All Modes | 22 Mode + LOSA 22 Mode| Biased LOSA|
 |LOSA All Modes| All Modes + LOSA 22 Mode| Biased LOSA|
-|LOSA All Modes| All Modes + LOSA All Modes| No Bias|
+|LOSA All Modes| All Modes + LOSA All Modes| [No Bias](https://github.com/avi-tiw/LOSA_HM/tree/main/IMRPhenomXPHM_LOSA_HM_results/GW_190814_like_injection/22_plus_33_injection_and_same_recovery/Final_results/all_modes_phase_and_amp_cor_phase_marg_false_duration_16sec) |
 
 
 
