@@ -8,3 +8,15 @@ In this repo, I will store the method and results of the LOSA correction to the 
 |No HM + Non-zero LOSA| HM + Zero LOSA| Fitting-factor peaks for \|LOSA\| $\neq$ 0 |
 |HM + Non-zero LOSA| HM + Zero LOSA| FF peaks for \|LOSA\| = 0|
 |HM + Non-zero LOSA| HM + Non-zero LOSA| FF peaks for \|LOSA\| $\neq$ 0|
+
+
+## PE runs pertaining to higher modes
+
+|Injection  | Recovery | Expectation |
+|-----------|-------------|----------|
+|LOSA All Modes | 22 Mode + LOSA 22 Mode| Biased LOSA|
+|LOSA All Modes| All Modes + LOSA 22 Mode| Biased LOSA|
+|LOSA All Modes| All Modes + LOSA All Modes| No Bias|
+
+
+
