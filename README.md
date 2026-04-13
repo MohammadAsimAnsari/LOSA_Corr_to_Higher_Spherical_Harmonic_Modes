@@ -22,7 +22,7 @@ In this repo, I will store the method and results of the LOSA correction to the 
 # Projects
 |Project number| Project description|
 |----------|--------|
-|1.| LOSA + Ecc (dominant 22 mode and dominat eccentric harmonic)|
+|1.| LOSA + Ecc (dominant 22 mode and dominat eccentric harmonic) and application to GW 170817 like injection runs|
 |2. | LOSA (Quasi-circular) + Higher Modes|
 |3.| Application of Project 2: GW190814|
 |4.| LOSA + Ecc including all higher eccentric harmonics (dominant 22 mode)|
