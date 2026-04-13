@@ -19,4 +19,17 @@ In this repo, I will store the method and results of the LOSA correction to the 
 |LOSA All Modes| All Modes + LOSA All Modes| [No Bias](https://github.com/avi-tiw/LOSA_HM/tree/main/IMRPhenomXPHM_LOSA_HM_results/GW_190814_like_injection/22_plus_33_injection_and_same_recovery/Final_results/all_modes_phase_and_amp_cor_phase_marg_false_duration_16sec) |
 
 
+# Projects
+|----------|--------|
+|1.| LOSA + Ecc (dominant 22 mode and dominat eccentric harmonic)|
+|2. | LOSA (Quasi-circular) + Higher Modes|
+|3.| Application of Project 2: GW190814|
+|4.| LOSA + Ecc including all higher eccentric harmonics (dominant 22 mode)|
+|5. | Application of Project 4: GW200105|
+|6.| LVK-LOSA search with the method developed in Project 2|
+|7.| Merger rate constraints|
+|8.| Constraining detectebility of LOSA in various astrophysical env. with the developed LOSA + Ecc waveform|
+|9.| Constructing a generic potential profile with LOSA + Ecc|
+|10.| Statistical study of the evolution history of a binary |
+
 
