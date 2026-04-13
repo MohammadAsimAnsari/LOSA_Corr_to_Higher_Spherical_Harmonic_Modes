@@ -20,6 +20,7 @@ In this repo, I will store the method and results of the LOSA correction to the 
 
 
 # Projects
+|Project number| Project description|
 |----------|--------|
 |1.| LOSA + Ecc (dominant 22 mode and dominat eccentric harmonic)|
 |2. | LOSA (Quasi-circular) + Higher Modes|
